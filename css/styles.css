@@ -42,3 +42,6 @@ ul{
 	font-size: 22px;
 	padding: 8px 0;
 }
+li{
+text-shadow: 2px 2px 5px #393939;
+}
