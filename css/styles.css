@@ -32,9 +32,11 @@ ul{
     padding: 20px 0;
 }
 ._three{
-    font-size: 30px;
+	padding: 20px 0;
+	width: 600px;
+	height: 400px;
+	text-align: center;
 }
-._four{}
 ._wrapper~p{
 	text-align: justify;
 	font-size: 22px;
